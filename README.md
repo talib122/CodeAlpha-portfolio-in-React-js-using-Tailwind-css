@@ -18,4 +18,4 @@ This portfolio is completeltely responsive for mobile and desktop
 
 Check the Demo video below
 
-https://github.com/user-attachments/assets/fe789061-aa79-4e7f-893a-f382d7cbc39f
+https://github.com/user-attachments/assets/b2bd6886-4727-4cfe-95ac-411dae3d2157
